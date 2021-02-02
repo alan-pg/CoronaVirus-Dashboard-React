@@ -33,7 +33,7 @@ Pré-requisitos: Nodejs
 git clone https://github.com/alan-pg/CoronaVirus-Dashboard-React
 
 # entrar na pasta do projeto
-cd 
+cd CoronaVirus-Dashboard-React
 
 # executar o projeto
 npm start
