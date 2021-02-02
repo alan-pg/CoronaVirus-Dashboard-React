@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 Covid19 Dashboard é uma aplicação construida durante curso na Digital Inovation One, esta aplicação consome uma API de dados do COVID19 em todo o mundo e disponibiliza um dashboard com os dados de infectados e óbitos de cada país.
-https://dashboard.heroku.com/apps/teste-reactapp
+https://covid19-dashboard-react.herokuapp.com/
 
 ## Layout original construido durante aula.
 ![Web 1](https://github.com/alan-pg/CoronaVirus-Dashboard-React/blob/main/src/assets/images/tela-original.png)
